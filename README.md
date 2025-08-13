@@ -7,7 +7,7 @@ Here’s a comprehensive README file for the AgroHealth project:
 
 ---
 
-# AgroHealth IoT Monitoring System
+# AgroHealth IoT Monitoring Systemll
 
 AgroHealth is an Internet of Things (IoT) based system designed to monitor various environmental parameters to enhance agricultural productivity. This system collects real-time data on soil moisture, temperature, humidity, and light intensity, providing farmers with actionable insights to improve crop health and yield.
 
